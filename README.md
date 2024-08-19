@@ -23,7 +23,7 @@ This is the frontend of the project, built using Vite and React. It provides a r
    git clone : https://github.com/zannatulferdous0162/DND-Ecommerce-Shop-job-task-
    
    
-   cd project- DND ECommerce Shop 
+   cd project- DND-Ecommerce-Shop-job-task-
 
 
  npm install
